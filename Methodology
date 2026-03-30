@@ -1,0 +1,5 @@
+We started by cleaning and preparing two datasets: trading data and sentiment data.
+The timestamp column in the trading dataset required careful preprocessing due to format inconsistencies, which were resolved by applying appropriate datetime parsing techniques.
+Both datasets were aligned at a daily level by extracting the date component and merging them using a common date key. This ensured that each trade was mapped to the corresponding market sentiment.
+Next, we engineered key behavioral metrics such as daily PnL, win rate, trade frequency, average trade size, and long/short ratio. These metrics were aggregated by sentiment classification to analyze how trader performance varies across different emotional market states.
+Finally, we visualized the results using bar charts to compare performance and behavior across sentiment categories.
