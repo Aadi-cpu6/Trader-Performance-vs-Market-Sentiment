@@ -25,13 +25,17 @@ This can help improve trading strategies and risk management.
 
 # Datasets Used
 
-# 1. Fear & Greed Index
+# 1. Fear & Greed Index[Uploading fear_greed_index.csv…]()
+[fear_greed_index.csv](https://github.com/user-attachments/files/26353211/fear_greed_index.csv)
+
 - Sentiment score (0–100)
 - Classification: Fear, Greed, etc.
+
 
 # 2. Historical Trading Data
 - Trade details (PnL, size, direction)
 - Trader activity
+
 
 ---
 
