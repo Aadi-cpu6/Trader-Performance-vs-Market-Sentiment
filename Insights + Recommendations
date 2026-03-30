@@ -1,0 +1,16 @@
+INSIGHTS:
+
+1. Traders tend to perform differently under Fear vs Greed conditions, with noticeable variation in profitability.
+2. Win rates are often lower during high-volatility sentiment phases (Extreme Fear/Greed), indicating inconsistent trading outcomes.
+3. Trade frequency increases during Greed phases, suggesting overconfidence and aggressive trading behavior.
+4. Average trade size tends to be higher during Greed periods, reflecting increased risk-taking.
+5. Fear periods may show more cautious behavior with fewer trades and smaller position sizes.
+
+
+RECOMMENDATIONS:
+
+1. Reduce leverage and position sizes during Extreme Greed phases to avoid losses from overconfidence.
+2. Increase selectivity and avoid overtrading when market sentiment is highly emotional.
+3. Focus on disciplined trading strategies during Fear phases, as reduced competition and volatility may present better opportunities.
+4. Use sentiment as a filtering signal rather than a primary indicator for decision-making.
+5. Implement risk management rules that dynamically adjust based on sentiment conditions.
