@@ -1,41 +1,33 @@
-##  Trading Behavior vs Market Sentiment Analysis
+Trading Behavior vs Market Sentiment Analysis
 
-# Project Overview
-
+Project Overview:
 This project analyzes how trader performance and behavior change under different market sentiment conditions (Fear vs Greed).
 We combine trading data with the Fear & Greed Index to extract actionable insights.
 
 ---
 
-## Datasets Used
-
-1. **historical_data.csv**
-
+Datasets Used
+1. historical_data.csv
    * Contains trade-level data (PnL, size, side, timestamp)
 
-2. **fear_greed_index.csv**
-
+2. fear_greed_index.csv
    * Contains daily sentiment classification (Fear, Greed, etc.)
 
 ---
 
-##  Setup Instructions
-
-### 1. Install dependencies
-
+Setup Instructions
+1. Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
-
-### 2. Run the notebook
-
+2. Run the notebook:
 ```bash
 jupyter notebook analysis.ipynb
 ```
 
 ---
 
-##  How to Run
+How to Run:
 
 1. Load datasets
 2. Fix timestamp parsing
@@ -47,7 +39,7 @@ jupyter notebook analysis.ipynb
 
 ---
 
-##  Output
+Output:
 
 * Sentiment vs PnL charts
 * Win rate comparison
@@ -56,7 +48,7 @@ jupyter notebook analysis.ipynb
 
 ---
 
-##  Key Metrics Created
+Key Metrics Created:
 
 * Daily PnL
 * Win Rate
@@ -66,7 +58,7 @@ jupyter notebook analysis.ipynb
 
 ---
 
-##  Tech Stack
+Tech Stack:
 
 * Python
 * Pandas
@@ -75,6 +67,6 @@ jupyter notebook analysis.ipynb
 
 ---
 
-##  Author
+Author:
 
 Aadi Teja - Data Science Graduate (2025)
